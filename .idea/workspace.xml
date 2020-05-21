@@ -47,6 +47,9 @@
     </expand>
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpServers">
     <servers>
       <server host="localhost" id="6d916ccc-00ad-4191-9ffd-f9b63d8f75d1" name="laravel" port="9090" />
