@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0a46f0c-73cd-4b1a-b79c-3314bc36316a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="laravel.sqlite" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="laravel.sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="laravel.sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="laravel.sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="6d916ccc-00ad-4191-9ffd-f9b63d8f75d1" name="laravel" port="9090" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7.4.6" />
+  <component name="ProjectId" id="1cAPSnR2gu6ZE8g5zilOOyzU7Zx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/database" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zoo\PhpstormProjects\cow\database" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zoo\PhpstormProjects\cow\database" />
+      <recent name="C:\Users\zoo\PhpstormProjects\cow\database\migrations" />
+      <recent name="C:\Users\zoo\PhpstormProjects\cow" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Built-in Web Server.cow">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cow" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/public" port="9090">
+      <method v="2" />
+    </configuration>
+    <configuration name="cow-http-request" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request" server_name="laravel">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Built-in Web Server.cow" />
+      <item itemvalue="PHP HTTP Request.cow-http-request" />
+      <item itemvalue="PHPUnit.phpunit.xml" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0a46f0c-73cd-4b1a-b79c-3314bc36316a" name="Default Changelist" comment="" />
+      <created>1589968426367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589968426367</updated>
+      <workItem from="1589968427980" duration="17539000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="10" key="#PHP" timestamp="1589968906411">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="404" y="10" key="#PHP/0.0.1440.870@0.0.1440.870" timestamp="1589968906411" />
+    <state x="302" y="77" key="#Servers" timestamp="1589968846051">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="302" y="77" key="#Servers/0.0.1440.870@0.0.1440.870" timestamp="1589968846051" />
+    <state x="176" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590037515632">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="176" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.870@0.0.1440.870" timestamp="1590037515632" />
+    <state x="452" y="224" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590030293180">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="452" y="224" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.870@0.0.1440.870" timestamp="1590030293180" />
+    <state x="452" y="168" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590036167803">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="452" y="168" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.870@0.0.1440.870" timestamp="1590036167803" />
+    <state x="364" y="173" key="FileChooserDialogImpl" timestamp="1590034825165">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="364" y="173" key="FileChooserDialogImpl/0.0.1440.870@0.0.1440.870" timestamp="1590034825165" />
+    <state width="1340" height="206" key="GridCell.Tab.0.bottom" timestamp="1590039631917">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="206" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1590039631917" />
+    <state width="1340" height="206" key="GridCell.Tab.0.center" timestamp="1590039631917">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="206" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1590039631917" />
+    <state width="1340" height="206" key="GridCell.Tab.0.left" timestamp="1590039631917">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="206" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1590039631917" />
+    <state width="1340" height="206" key="GridCell.Tab.0.right" timestamp="1590039631917">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="206" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1590039631917" />
+    <state width="1340" height="256" key="GridCell.Tab.1.bottom" timestamp="1589968948110">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="256" key="GridCell.Tab.1.bottom/0.0.1440.870@0.0.1440.870" timestamp="1589968948110" />
+    <state width="1340" height="256" key="GridCell.Tab.1.center" timestamp="1589968948110">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="256" key="GridCell.Tab.1.center/0.0.1440.870@0.0.1440.870" timestamp="1589968948110" />
+    <state width="1340" height="256" key="GridCell.Tab.1.left" timestamp="1589968948110">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="256" key="GridCell.Tab.1.left/0.0.1440.870@0.0.1440.870" timestamp="1589968948110" />
+    <state width="1340" height="256" key="GridCell.Tab.1.right" timestamp="1589968948110">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="256" key="GridCell.Tab.1.right/0.0.1440.870@0.0.1440.870" timestamp="1589968948110" />
+    <state x="441" y="235" key="NewPhpClassDialog" timestamp="1590035573022">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="441" y="235" key="NewPhpClassDialog/0.0.1440.870@0.0.1440.870" timestamp="1590035573022" />
+    <state x="621" y="311" width="343" height="236" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1590036738791">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="621" y="311" width="343" height="236" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1440.870@0.0.1440.870" timestamp="1590036738791" />
+    <state x="329" y="122" width="786" height="600" key="find.popup" timestamp="1589969216837">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="329" y="122" width="786" height="600" key="find.popup/0.0.1440.870@0.0.1440.870" timestamp="1589969216837" />
+    <state x="385" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1590035035033">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="385" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1440.870@0.0.1440.870" timestamp="1590035035033" />
+  </component>
+</project>
